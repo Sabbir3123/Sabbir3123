@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Md Sabbir Hossain 👋
 
-<!--
-**Sabbir3123/Sabbir3123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student  
+💻 Passionate about AI, Machine Learning & Cybersecurity  
+📍 Bangladesh  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Currently working on Fake News Detection using Machine Learning
+- Skilled in Python, C++, and Web Development
+- Interested in research and real-world problem solving
+
+---
+
+## 🛠️ Skills
+- Programming: Python, C++
+- Web: HTML, CSS, JavaScript
+- Tools: Git, GitHub
+- Concepts: Machine Learning, Data Analysis
+
+---
+
+## 📌 Projects
+### 🔹 Fake News Detection
+- Built ML models (Logistic Regression, Naive Bayes)
+- Text preprocessing and classification
+
+---
+
+## 📫 Contact Me
+- LinkedIn: www.linkedin.com/in/sabbir3123
