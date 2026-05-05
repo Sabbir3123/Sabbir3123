@@ -1,32 +1,77 @@
-# Hi, I'm Md Sabbir Hossain 👋
+# 👋 Hi, I'm Sabbir Hossain
 
-🎓 Final Year CSE Student  
-💻 Passionate about AI, Machine Learning & Cybersecurity  
-📍 Bangladesh  
-
----
-
-## 🚀 About Me
-- Currently working on Fake News Detection using Machine Learning
-- Skilled in Python, C++, and Web Development
-- Interested in research and real-world problem solving
+🎓 **CSE Graduate (2026)**
+💻 **Full Stack Developer (Learning & Building)**
+🚀 Passionate about **Web Development, AI & Modern Technologies**
 
 ---
 
-## 🛠️ Skills
-- Programming: Python, C++
-- Web: HTML, CSS, JavaScript
-- Tools: Git, GitHub
-- Concepts: Machine Learning, Data Analysis
+## 🔹 About Me
+
+I recently completed my Bachelor of Science in Computer Science and Engineering.
+I have hands-on experience with full stack development and enjoy building projects to explore new technologies.
+
+I am not a professional developer yet, but I am continuously improving my skills and actively looking for opportunities to grow in the tech industry.
 
 ---
 
-## 📌 Projects
-### 🔹 Fake News Detection
-- Built ML models (Logistic Regression, Naive Bayes)
-- Text preprocessing and classification
+## 🔹 Tech Stack
+
+### 💻 Programming Languages
+
+* C, C++, Java, Python
+* PHP, JavaScript
+
+### 🌐 Web Development
+
+* HTML, CSS, React.js
+* Bootstrap, jQuery
+
+### 🛢️ Database
+
+* MySQL / SQL
+* MongoDB
+
+### ⚙️ Other Skills
+
+* Basic Networking
+* Artificial Intelligence (Beginner)
+* Microsoft Office (Word, Excel, PowerPoint)
 
 ---
 
-## 📫 Contact Me
-- LinkedIn: www.linkedin.com/in/sabbir3123
+## 🔹 Projects
+
+🔸 Full Stack Web Applications (Practice & Learning)
+🔸 Hospital Management System (PHP + MySQL)
+🔸 AI-Based Student Performance Predictor
+🔸 JibonDaak – Smart Ambulance Dispatch System
+
+---
+
+## 🔹 What I'm Currently Doing
+
+* 🔍 Looking for **internship / junior developer roles**
+* 📚 Learning **advanced full stack & AI concepts**
+* 🛠️ Building real-world projects
+
+---
+
+## 🔹 Strengths
+
+✔️ Quick learner
+✔️ Strong problem-solving mindset
+✔️ Punctual & disciplined
+✔️ Passionate about technology
+
+---
+
+## 🔹 Connect With Me
+
+📧 Email: Sabbirhossain3123@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/sabbir3123/
+🌐 Portfolio:
+
+---
+
+⭐ *Always open to learning, collaboration, and new opportunities!*
